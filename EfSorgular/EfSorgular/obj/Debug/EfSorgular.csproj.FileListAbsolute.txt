@@ -1,0 +1,30 @@
+C:\Users\Hp\Desktop\Görsel Programlama\EfSorgular\EfSorgular\bin\Debug\EfSorgular.exe.config
+C:\Users\Hp\Desktop\Görsel Programlama\EfSorgular\EfSorgular\bin\Debug\EfSorgular.exe
+C:\Users\Hp\Desktop\Görsel Programlama\EfSorgular\EfSorgular\bin\Debug\EfSorgular.pdb
+C:\Users\Hp\Desktop\Görsel Programlama\EfSorgular\EfSorgular\bin\Debug\EntityFramework.dll
+C:\Users\Hp\Desktop\Görsel Programlama\EfSorgular\EfSorgular\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hp\Desktop\Görsel Programlama\EfSorgular\EfSorgular\bin\Debug\EntityFramework.xml
+C:\Users\Hp\Desktop\Görsel Programlama\EfSorgular\EfSorgular\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hp\Desktop\Görsel Programlama\EfSorgular\EfSorgular\obj\Debug\EfSorgular.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Görsel Programlama\EfSorgular\EfSorgular\obj\Debug\EfSorgular.Form1.resources
+C:\Users\Hp\Desktop\Görsel Programlama\EfSorgular\EfSorgular\obj\Debug\EfSorgular.Properties.Resources.resources
+C:\Users\Hp\Desktop\Görsel Programlama\EfSorgular\EfSorgular\obj\Debug\EfSorgular.csproj.GenerateResource.cache
+C:\Users\Hp\Desktop\Görsel Programlama\EfSorgular\EfSorgular\obj\Debug\EfSorgular.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Görsel Programlama\EfSorgular\EfSorgular\obj\Debug\EfSorgular.csproj.CopyComplete
+C:\Users\Hp\Desktop\Görsel Programlama\EfSorgular\EfSorgular\obj\Debug\EfSorgular.exe
+C:\Users\Hp\Desktop\Görsel Programlama\EfSorgular\EfSorgular\obj\Debug\EfSorgular.pdb
+C:\Users\MSİ\Desktop\EfSorgular\EfSorgular\bin\Debug\EfSorgular.exe.config
+C:\Users\MSİ\Desktop\EfSorgular\EfSorgular\bin\Debug\EfSorgular.exe
+C:\Users\MSİ\Desktop\EfSorgular\EfSorgular\bin\Debug\EfSorgular.pdb
+C:\Users\MSİ\Desktop\EfSorgular\EfSorgular\bin\Debug\EntityFramework.dll
+C:\Users\MSİ\Desktop\EfSorgular\EfSorgular\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MSİ\Desktop\EfSorgular\EfSorgular\bin\Debug\EntityFramework.xml
+C:\Users\MSİ\Desktop\EfSorgular\EfSorgular\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MSİ\Desktop\EfSorgular\EfSorgular\obj\Debug\EfSorgular.csproj.AssemblyReference.cache
+C:\Users\MSİ\Desktop\EfSorgular\EfSorgular\obj\Debug\EfSorgular.Form1.resources
+C:\Users\MSİ\Desktop\EfSorgular\EfSorgular\obj\Debug\EfSorgular.Properties.Resources.resources
+C:\Users\MSİ\Desktop\EfSorgular\EfSorgular\obj\Debug\EfSorgular.csproj.GenerateResource.cache
+C:\Users\MSİ\Desktop\EfSorgular\EfSorgular\obj\Debug\EfSorgular.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\Desktop\EfSorgular\EfSorgular\obj\Debug\EfSorgular.csproj.Up2Date
+C:\Users\MSİ\Desktop\EfSorgular\EfSorgular\obj\Debug\EfSorgular.exe
+C:\Users\MSİ\Desktop\EfSorgular\EfSorgular\obj\Debug\EfSorgular.pdb
